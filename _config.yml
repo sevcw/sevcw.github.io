@@ -21,11 +21,10 @@
 title: Chinwagger Blog - Ramblings and Project Updates
 email: sev@chinwagger.io
 description: >- # this means to ignore newlines until "baseurl:"
-  Join me in my journey to build out chinwagger! I will try and update this blog as much as I can.
+  Blogs weekly about my deep dive into the world of bootstrapping.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: chinwagger_io
-github_username: osev
 
 # Build settings
 theme: minima
